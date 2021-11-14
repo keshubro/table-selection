@@ -1,0 +1,7 @@
+.single-row:hover {
+    cursor: pointer;
+    background-color: rgb(226, 226, 226);
+}
+.single-row:selected {
+    background-color: rgb(226, 226, 226);;
+}
